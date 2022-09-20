@@ -1,0 +1,2 @@
+# squooshNode
+squoosh的example
